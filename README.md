@@ -42,6 +42,12 @@ python3 imagenet_to_gcs.py \
   --raw_data_dir="path/to/imagenet"
  ```
  
+ Original document:
+ 
+ ```
+ https://cloud.google.com/tpu/docs/imagenet-setup
+ ```
+ 
   
 
 
