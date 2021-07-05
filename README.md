@@ -16,7 +16,7 @@ There are 4 files you wll need to download
 -  Validation files - This is a tar with 50K images
 -  Validation Labels -  wget https://raw.githubusercontent.com/tensorflow/models/master/research/slim/datasets/imagenet_2012_validation_synset_labels.txt
 
-To be used with TPUs and tensorflow you will need to convert them to tfrecords
+Most tensorflow training datasets requires tfrecords. Following steps allows you to convert the images to tfrecords.
 
 Download the following script
 ```
@@ -32,7 +32,7 @@ It should be extracted and provided in the format:
 - Validation Labels: synset_labels.txt
 
 
-set IMAGENET_HOME to the location of the home of the imagenet
+set IMAGENET_HOME  environment variable to the location of the home of the imagenet.
 
 To generate the tf records you can use:
 ```
