@@ -2,9 +2,9 @@
 
 This document gives an overview of how to build imagenet tfrecords to be used for classification tasks
 
-a) Browse to https://www.image-net.org
-b) Setup an account with image-net
-c) Accept the agreement
+-  Browse to https://www.image-net.org
+-  Setup an account with image-net
+-   Accept the agreement
 
 Once you have accepted the agreement you will be allowed to download the imagenet dataset.
 
