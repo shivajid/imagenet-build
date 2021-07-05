@@ -10,7 +10,7 @@ Once you have accepted the agreement you will be allowed to download the imagene
 
 Before you download ensure that you have a large VM or a machine with about 500GB in disk space.
 
-There are 4 files you wll need to download
+There are 4 files you will need to download
 
 - Train files - There are 2 of them
 -  Validation files - This is a tar with 50K images
