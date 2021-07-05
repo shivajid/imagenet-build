@@ -42,6 +42,8 @@ python3 imagenet_to_gcs.py \
   --raw_data_dir="path/to/imagenet"
  ```
  
+ Wrap the above command in a shell and run in a background mode as it will take hours to run.
+ 
  Original document:
  
  ```
